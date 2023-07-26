@@ -1,4 +1,5 @@
 # ContactsApp
 
-Uploading Simulator Screen Recording - iPhone 14 - 2023-07-26 at 16.09.27.mp4…
+
+https://github.com/ecemakcay/ContactsApp/assets/77858947/f30967e0-454f-4042-869e-2cbbad775b5f
 
